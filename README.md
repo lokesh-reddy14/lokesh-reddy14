@@ -8,7 +8,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://lokesh-reddy14.github.io/Home/](https://lokesh-reddy14.github.io/Home/)
+- 👨‍💻 All of my projects are available at [https://lokesh-reddy14.github.io/LokeshReddy/](https://lokesh-reddy14.github.io/LokeshReddy/)
 
 - 💬 Ask me about **Web development,Android development,Artificial intelligence**
 
